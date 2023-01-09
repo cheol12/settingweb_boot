@@ -13,7 +13,7 @@ import org.springframework.web.servlet.ModelAndView;
 @RestController
 @Controller
 public class settingTest {
-
+//
     @Autowired
     private StatisticService service;
 
